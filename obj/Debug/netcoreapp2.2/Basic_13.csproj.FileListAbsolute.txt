@@ -1,0 +1,11 @@
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Basic_13/obj/Debug/netcoreapp2.2/Basic_13.csprojAssemblyReference.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Basic_13/obj/Debug/netcoreapp2.2/Basic_13.csproj.CoreCompileInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Basic_13/obj/Debug/netcoreapp2.2/Basic_13.AssemblyInfoInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Basic_13/obj/Debug/netcoreapp2.2/Basic_13.AssemblyInfo.cs
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Basic_13/bin/Debug/netcoreapp2.2/Basic_13.deps.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Basic_13/bin/Debug/netcoreapp2.2/Basic_13.runtimeconfig.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Basic_13/bin/Debug/netcoreapp2.2/Basic_13.runtimeconfig.dev.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Basic_13/bin/Debug/netcoreapp2.2/Basic_13.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Basic_13/bin/Debug/netcoreapp2.2/Basic_13.pdb
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Basic_13/obj/Debug/netcoreapp2.2/Basic_13.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Basic_13/obj/Debug/netcoreapp2.2/Basic_13.pdb
